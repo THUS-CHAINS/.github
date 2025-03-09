@@ -1,7 +1,7 @@
-# CHAIN
+# CHAINS: Collaborative Hub for Advancing Innovative and Sustainable Software Supply Chains
 
 ## About
-CHAIN () is a research group within THUS (Techno-Human Systems of the Future), a scientific partnership between France's CNRS and Brazil's USP. Our mission is to develop innovative methodologies and technologies that enhance the synergy between software engineering and green computing.
+CHAINS is a research group within THUS (Techno-Human Systems of the Future), a scientific partnership between France's CNRS and Brazil's USP. Our mission is to develop innovative methodologies and technologies that enhance the synergy between software engineering and green computing.
 
 ## Research Areas
 
